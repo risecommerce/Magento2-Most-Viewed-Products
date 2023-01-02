@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+	<widget class="Risecommerce\MostViewedProducts\Block\MostViewedProducts" id="risecommerce_most_viewed_products">
+		<label>Most Viewed Products Slider</label>
+		<description>Risecommerce Most Viewed Products Slider</description>
+	</widget>
+</widgets>
