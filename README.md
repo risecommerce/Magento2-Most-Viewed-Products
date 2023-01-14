@@ -7,10 +7,18 @@ This extension lets the store owners display most viewed products on their websi
 
 ##How to install Extension
 
+Method I)
+
 1. Download the archive file.
 2. Unzip the file
 3. Create a folder [Magento_Root]/app/code/Risecommerce/MostViewedProducts
 4. Drop/move the unzipped files to directory '[Magento_Root]/app/code/Risecommerce/MostViewedProducts'
+
+Method II)
+
+Using Composer
+
+composer require risecommerce/magento-2-most-viewed-products:1.0.1
 
 #Enable Extension:
 - php bin/magento module:enable Risecommerce_MostViewedProducts
